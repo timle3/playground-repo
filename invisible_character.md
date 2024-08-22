@@ -1,1 +1,1 @@
-'​relevance.dropshot
+'relevance
